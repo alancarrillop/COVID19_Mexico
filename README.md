@@ -1,6 +1,8 @@
 # COVID19_Mexico
-Bases de datos y gráficas con información del COVID19 en México
+Este repositorio contiene bases de datos y gráficas con información del COVID19 en México.
 
-En este repositorio están los datos provistos por la Secretaría de Salud de México acerca de la epidemia de COVID19 [(Aquí)](https://www.gob.mx/salud/documentos/nuevo-coronavirus-2019-ncov-comunicado-tecnico-diario)
+Las bases de datos son de elaboración propia a partir de la información publicada por la Secretaría de Salud de México [(click para ver la página)]. Esta información se publica en formato pdf, y para poder analizarla más fácilmente es que la transformamos a formato csv.
 
-Los datos más útiles están a partir aproximadamente del 25 de febrero de 2020, en formato pdf. Se pasaron a csv y se incluyen en el repositorio.
+La Secretaría de Salud ha publicado información global desde hace algunas semanas, pero los datos nacionales útiles comenzaron a reportarse a partir del 25 de febrero de 2020 aproximadamente. La Secretaría hace un corte de información diariamente aproximadamente a las 13:00 hr, y publica la información aproximadamente a las 19:00. Por lo tanto se pretende que todos los recursos existentes en este repositorio se actualicen diariamente aproximadamente a las 21:00 hr.
+
+Si tienes cualquier duda o comentario respecto a cualquier tema tratado en este repositorio por favor envía un correo a alvic.cape@gmail.com
