@@ -1,0 +1,1095 @@
+Entidad,Sexo,Edad,InicioSintomas,Procedencia,FechaLlegada,GrupoEdad,FechaReporte,FuenteFechaReporte,Desenlace
+CDMX,M,35,22/02/2020,Italia,22/02/2020,30 años y 1 día-40 años,28/02/2020,Conferencia de prensa,Desconocido
+Sin,M,41,22/02/2020,Italia,21/02/2020,40 años y 1 día-50 años,28/02/2020,Conferencia de prensa,Recuperado
+CDMX,M,59,23/02/2020,Italia,22/02/2020,50 años y 1 día-60 años,28/02/2020,Conferencia de prensa,Desconocido
+Coah,F,20,27/02/2020,Italia,25/02/2020,10 años y 1 día-20 años,29/02/2020,Conferencia de prensa,Recuperado
+Chis,F,18,25/02/2020,Italia,25/02/2020,10 años y 1 día-20 años,01/03/2020,Conferencia de prensa,Desconocido
+EdoMex,M,71,21/02/2020,Italia,21/02/2020,70 años y 1 día-80 años,06/03/2020,Conferencia de prensa,Recuperado
+CDMX,M,46,29/02/2020,Estados Unidos,29/02/2020,40 años y 1 día-50 años,07/03/2020,Conferencia de prensa,Desconocido
+Qro,M,43,09/03/2020,España,06/03/2020,40 años y 1 día-50 años,11/03/2012,Conferencia de prensa,Desconocido
+CDMX,M,41,07/03/2020,Estados Unidos,06/03/2020,40 años y 1 día-50 años,11/03/2020,Conferencia de prensa,Desconocido
+CDMX,F,30,07/03/2020,España,06/03/2020,20 años y 1 día-30 años,11/03/2020,Conferencia de prensa,Desconocido
+EdoMex,F,64,02/03/2020,Estados Unidos,29/02/2020,60 años y 1 día-70 años,11/03/2020,Conferencia de prensa,Desconocido
+NL,M,57,04/03/2020,Alemania,03/03/2020,50 años y 1 día-60 años,12/03/2020,Conferencia de prensa y nota periodística,Desconocido
+EdoMex,F,55,09/03/2020,España,09/03/2020,50 años y 1 día-60 años,13/03/2020,Inferencia,Desconocido
+Dgo,M,58,06/03/2020,España,28/02/2020,50 años y 1 día-60 años,12/03/2020,Conferencia de prensa,Desconocido
+Qro,F,65,10/03/2020,Contacto,No aplica,60 años y 1 día-70 años,12/03/2020,"Inferencia. La conferencia solo dicen que es una mujer de 30 años, pero es la única opción que queda después de marar los demás casos, que se marcaron basándome en las conferencias y los comunicados técnicos diaros",Desconocido
+Qro,M,42,05/03/2020,Italia,05/03/2020,40 años y 1 día-50 años,13/03/2020,Inferencia,Desconocido
+CDMX,M,48,10/03/2020,España,09/03/2020,40 años y 1 día-50 años,13/03/2020,Inferencia,Desconocido
+CDMX,M,38,10/03/2020,España,09/03/2020,30 años y 1 día-40 años,13/03/2020,Inferencia,Desconocido
+Qro,F,43,11/03/2020,Contacto,No aplica,40 años y 1 día-50 años,13/03/2020,Inferencia,Desconocido
+Pue,M,31,05/03/2020,España,09/03/2020,30 años y 1 día-40 años,12/03/2020,Conferencia de prensa,Desconocido
+CDMX,M,37,11/03/2020,Italia,11/03/2020,30 años y 1 día-40 años,13/03/2020,Inferencia,Desconocido
+Yuc,F,57,07/03/2020,España,06/03/2020,50 años y 1 día-60 años,13/03/2020,Inferencia,Desconocido
+CDMX,M,52,08/03/2020,España,08/03/2020,50 años y 1 día-60 años,13/03/2020,Inferencia,Desconocido
+CDMX,M,64,10/03/2020,Contacto,10/03/2020,60 años y 1 día-70 años,13/03/2020,Inferencia,Desconocido
+CDMX,M,68,04/03/2020,España,10/03/2020,60 años y 1 día-70 años,13/03/2020,Inferencia,Desconocido
+QRoo,F,71,01/03/2020,Italia,01/03/2020,70 años y 1 día-80 años,13/03/2020,Inferencia,Desconocido
+SLP,F,53,11/03/2020,España,10/03/2020,50 años y 1 día-60 años,14/03/2020,Comunicado técnico diario,Desconocido
+NL,M,73,09/03/2020,Estados Unidos,10/03/2020,70 años y 1 día-80 años,14/03/2020,Comunicado técnico diario,Desconocido
+NL,M,30,09/03/2020,España,07/03/2020,20 años y 1 día-30 años,14/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,31,09/03/2020,España,08/03/2020,30 años y 1 día-40 años,14/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,33,10/03/2020,Francia,08/03/2020,30 años y 1 día-40 años,14/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,54,10/03/2020,España,04/03/2020,50 años y 1 día-60 años,14/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,64,01/03/2020,Alemania,09/03/2020,60 años y 1 día-70 años,14/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,61,09/03/2020,Estados Unidos,03/03/2020,60 años y 1 día-70 años,15/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,45,07/03/2020,España,09/03/2020,40 años y 1 día-50 años,14/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,62,11/03/2020,Estados Unidos,08/03/2020,60 años y 1 día-70 años,14/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,72,09/03/2020,Estados Unidos,07/03/2020,70 años y 1 día-80 años,14/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,10/03/2020,España,08/03/2020,40 años y 1 día-50 años,14/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,30,09/03/2020,España,09/03/2020,20 años y 1 día-30 años,14/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,38,11/03/2020,Contacto,No aplica,30 años y 1 día-40 años,14/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,30,09/03/2020,España,09/03/2020,20 años y 1 día-30 años,14/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,25,09/03/2020,Estados Unidos,13/03/2020,20 años y 1 día-30 años,15/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,23,07/03/2020,España,10/03/2020,20 años y 1 día-30 años,15/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,54,10/03/2020,España,10/03/2020,50 años y 1 día-60 años,15/03/2020,Comunicado técnico diario,Desconocido
+Oax,M,61,10/03/2020,Estados Unidos,10/03/2020,60 años y 1 día-70 años,14/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,55,10/03/2020,España,10/03/2020,50 años y 1 día-60 años,15/03/2020,Comunicado técnico diario,Desconocido
+NL,M,27,11/03/2020,España,13/03/2020,20 años y 1 día-30 años,15/03/2020,Comunicado técnico diario,Desconocido
+NL,M,46,06/03/2020,Estados Unidos,03/03/2020,40 años y 1 día-50 años,15/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,49,09/03/2020,España,09/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,50,10/03/2020,Estados Unidos,10/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,10/03/2020,España,11/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,66,08/03/2020,Estados Unidos,06/03/2020,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,63,09/03/2020,Estados Unidos,06/03/2020,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,53,09/03/2020,Francia,28/02/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,30,11/03/2020,España,11/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,49,13/03/2020,España,13/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,32,12/03/2020,Contacto,No aplica,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+Dgo,M,32,11/03/2020,Alemania,11/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,22,09/03/2020,España,12/03/2020,20 años y 1 día-30 años,16/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,27,05/03/2020,España,09/03/2020,20 años y 1 día-30 años,15/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,70,07/03/2020,Estados Unidos,08/03/2020,60 años y 1 día-70 años,15/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,32,10/03/2020,Contacto,No aplica,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,59,07/03/2020,España,04/03/2020,50 años y 1 día-60 años,16/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,70,09/03/2020,Estados Unidos,08/03/2020,60 años y 1 día-70 años,16/03/2020,Comunicado técnico diario,Desconocido
+Dgo,F,38,09/03/2020,España,12/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,25,14/03/2020,España,12/03/2020,20 años y 1 día-30 años,15/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,31,10/03/2020,Contacto,No aplica,30 años y 1 día-40 años,15/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,45,13/03/2020,España,10/03/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,27,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,16/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,47,05/03/2020,Estados Unidos,29/02/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,59,07/03/2020,Francia,08/03/2020,50 años y 1 día-60 años,16/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,09/03/2020,Contacto,No aplica,40 años y 1 día-50 años,19/03/2020,"Inferencia. En la tabla del 20/03/20 estaba marcado como en investigación, a partir de la del 21/03/20 lo marcan como contacto",Fallecido
+Gto,M,39,12/03/2020,Alemania,10/03/2020,30 años y 1 día-40 años,17/03/2020,Comunicado técnico diario,Desconocido
+NL,M,72,11/03/2020,Estados Unidos,10/03/2020,70 años y 1 día-80 años,16/03/2020,Comunicado técnico diario,Desconocido
+Chih,M,29,12/03/2020,Alemania,12/03/2020,20 años y 1 día-30 años,No marcado como nuevo en tabla del 20-mar-20,No marcado como nuevo en tabla del 20-mar-20,No marcado como nuevo en tabla del 20-mar-20
+QRoo,F,50,08/03/2020,España,11/03/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,19,13/03/2020,España,11/03/2020,10 años y 1 día-20 años,16/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,44,11/03/2020,Contacto,No aplica,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,49,13/03/2020,España,13/03/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,32,11/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,F,74,09/03/2020,España,12/03/2020,70 años y 1 día-80 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,F,80,09/03/2020,España,12/03/2020,70 años y 1 día-80 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,M,71,07/03/2020,Estados Unidos,10/03/2020,70 años y 1 día-80 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,M,53,09/03/2020,España,10/03/2020,50 años y 1 día-60 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,M,42,02/03/2020,Estados Unidos,02/03/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,45,11/03/2020,Estados Unidos,01/03/2020,40 años y 1 día-50 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,M,33,09/03/2020,Estados Unidos,12/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+NL,F,27,12/03/2020,Estados Unidos,12/03/2020,20 años y 1 día-30 años,16/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,31,08/03/2020,Francia,10/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,21,13/03/2020,España,13/03/2020,20 años y 1 día-30 años,16/03/2020,Comunicado técnico diario,Desconocido
+Tamps,M,55,13/03/2020,Singapur,11/03/2020,50 años y 1 día-60 años,17/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,27,09/03/2020,España,09/03/2020,20 años y 1 día-30 años,16/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,31,09/03/2020,España,09/03/2020,30 años y 1 día-40 años,16/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,54,11/03/2020,España,08/03/2020,50 años y 1 día-60 años,16/03/2020,Comunicado técnico diario,Desconocido
+Son,M,72,11/03/2020,Estados Unidos,11/03/2020,70 años y 1 día-80 años,17/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,49,06/03/2020,España,04/03/2020,40 años y 1 día-50 años,17/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,41,10/03/2020,Estados Unidos,29/02/2020,40 años y 1 día-50 años,17/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,56,11/03/2020,Contacto,No aplica,50 años y 1 día-60 años,17/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,37,09/03/2020,Estados Unidos,06/03/2020,30 años y 1 día-40 años,17/03/2020,Comunicado técnico diario,Desconocido
+NL,M,19,07/03/2020,Contacto,10/03/2020,10 años y 1 día-20 años,17/03/2020,Comunicado técnico diario,Desconocido
+NL,M,34,12/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,18/03/2020,Comunicado técnico diario,Desconocido
+NL,M,41,10/03/2020,Estados Unidos,07/03/2020,40 años y 1 día-50 años,18/03/2020,Comunicado técnico diario,Desconocido
+NL,M,46,11/03/2020,Estados Unidos,09/03/2020,40 años y 1 día-50 años,18/03/2020,Comunicado técnico diario,Desconocido
+NL,M,21,14/03/2020,España,15/03/2020,20 años y 1 día-30 años,19/03/2020,"Inferencia. Repetido px 104 410 de tabla del 29-mar-20, dejé el 104",Repetido px 104 410 de tabla del 29-mar-20
+NL,M,21,15/03/2020,España,13/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,21,13/03/2020,España,13/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,25,11/03/2020,España,15/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,36,10/03/2020,Contacto,No aplica,30 años y 1 día-40 años,18/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,39,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,45,13/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,22,16/03/2020,España,15/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,24,09/03/2020,Contacto,08/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,75,06/03/2020,Contacto,No aplica,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,53,09/03/2020,España,09/03/2020,50 años y 1 día-60 años,18/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,53,06/03/2020,España,09/03/2020,50 años y 1 día-60 años,18/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,56,07/03/2020,Estados Unidos,05/03/2020,50 años y 1 día-60 años,17/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,21,03/03/2020,España,12/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,61,08/03/2020,España,08/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,21,07/03/2020,España,13/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,23,07/03/2020,España,13/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,24,14/03/2020,España,14/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,55,09/03/2020,Estados Unidos,09/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,31,13/03/2020,España,13/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,32,14/03/2020,España,14/03/2020,30 años y 1 día-40 años,18/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,25,10/03/2020,España,09/03/2020,20 años y 1 día-30 años,17/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,26,08/03/2020,España,14/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Col,M,46,15/03/2020,Alemania,13/03/2020,40 años y 1 día-50 años,18/03/2020,Comunicado técnico diario,Desconocido
+BC,F,54,11/03/2020,Estados Unidos,02/03/2020,50 años y 1 día-60 años,18/03/2020,Comunicado técnico diario,Desconocido
+BC,F,57,13/03/2020,Contacto,16/03/2020,50 años y 1 día-60 años,18/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,12/03/2020,Estados Unidos,12/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,14/03/2020,Estados Unidos,12/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,39,07/03/2020,Francia,06/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+Son,M,44,12/03/2020,Italia,10/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,61,14/03/2020,Francia,16/03/2020,60 años y 1 día-70 años,18/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,64,08/03/2020,Estados Unidos,08/03/2020,60 años y 1 día-70 años,19/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,25,15/03/2020,Estados Unidos,17/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,43,08/03/2020,Estados Unidos,10/02/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,39,16/03/2020,España,14/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,31,15/03/2020,Francia,14/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,44,16/03/2020,España,16/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,63,15/03/2020,España,17/03/2020,60 años y 1 día-70 años,19/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,28,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,24,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,63,23/03/2020,Estados Unidos,11/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,35,10/03/2020,Estados Unidos,10/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,29,10/03/2020,España,15/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,18,10/03/2020,Estados Unidos,13/03/2020,10 años y 1 día-20 años,18/03/2020,Comunicado técnico diario,Desconocido
+Tamps,F,23,16/03/2020,España,12/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,17,09/03/2020,Estados Unidos,09/03/2020,10 años y 1 día-20 años,18/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,39,16/03/2020,Italia,01/03/2020,30 años y 1 día-40 años,18/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,79,15/03/2020,España,13/03/2020,70 años y 1 día-80 años,19/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,27,14/03/2020,España,14/03/2020,20 años y 1 día-30 años,18/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,52,12/03/2020,España,14/03/2020,50 años y 1 día-60 años,18/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,42,14/03/2020,España,13/03/2020,40 años y 1 día-50 años,20/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,25,08/03/2020,España,16/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,52,10/03/2020,España,12/03/2020,50 años y 1 día-60 años,20/03/2020,"Inferencia. Repetido px 156 315 de tabla del 29-mar-20, dejé el 156",Repetido px 156 315 de tabla del 29-mar-20
+Yuc,F,27,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,51,14/03/2020,Contacto,No aplica,50 años y 1 día-60 años,19/03/2020,Comunicado técnico diario,Desconocido
+BC,M,72,09/03/2020,Estados Unidos,10/03/2020,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,32,11/03/2020,Estados Unidos,No aplica,30 años y 1 día-40 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+Yuc,M,30,16/03/2020,España,11/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,45,13/03/2020,Estados Unidos,13/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,45,15/03/2020,Estados Unidos,15/03/2020,40 años y 1 día-50 años,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20
+Jal,M,54,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,27,13/03/2020,España,15/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,22,16/03/2020,España,16/03/2020,20 años y 1 día-30 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,49,12/03/2020,España,09/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,19,16/03/2020,España,13/03/2020,10 años y 1 día-20 años,19/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,38,13/03/2020,Estados Unidos,01/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,46,12/03/2020,Estados Unidos,10/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,35,11/03/2020,Estados Unidos,05/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,70,15/03/2020,Estados Unidos,13/03/2020,60 años y 1 día-70 años,19/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,59,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,19/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,50,16/03/2020,España,17/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,64,18/03/2020,España,15/03/2020,60 años y 1 día-70 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,35,09/03/2020,Estados Unidos,09/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,42,16/03/2020,Contacto,No aplica,40 años y 1 día-50 años,20/03/2020,Comunicado técnico diario,Desconocido
+Dgo,M,74,15/03/2020,Estados Unidos,03/03/2020,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Fallecido
+Mor,M,37,14/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,34,15/03/2020,Francia,15/03/2020,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,63,14/03/2020,España,13/03/2020,60 años y 1 día-70 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,F,29,13/03/2020,España,14/03/2020,20 años y 1 día-30 años,20/03/2020,Comunicado técnico diario,Desconocido
+Mor,F,54,17/03/2020,Estados Unidos,17/03/2020,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,73,14/03/2020,Contacto,No aplica,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,52,14/03/2020,Estados Unidos,14/03/2020,50 años y 1 día-60 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,50,04/03/2020,Estados Unidos,07/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,35,15/03/2020,Alemania,14/03/2020,30 años y 1 día-40 años,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20
+QRoo,F,30,14/03/2020,Estados Unidos,14/03/2020,20 años y 1 día-30 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,28,14/03/2020,Estados Unidos,12/03/2020,20 años y 1 día-30 años,20/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,42,10/03/2020,España,11/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+NL,F,48,11/03/2020,España,13/03/2020,40 años y 1 día-50 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,19,11/03/2020,Estados Unidos,07/03/2020,10 años y 1 día-20 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,29,14/03/2020,Estados Unidos,07/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,41,08/03/2020,Estados Unidos,09/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,54,07/03/2020,Estados Unidos,07/03/2020,50 años y 1 día-60 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,62,09/03/2020,Estados Unidos,23/02/2020,60 años y 1 día-70 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,42,12/03/2020,Estados Unidos,11/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,49,13/03/2020,Estados Unidos,08/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,29,08/03/2020,Estados Unidos,07/03/2020,20 años y 1 día-30 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,19,14/03/2020,España,13/03/2020,10 años y 1 día-20 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,63,14/03/2020,Estados Unidos,14/03/2020,60 años y 1 día-70 años,19/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,35,11/03/2020,Italia,14/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,44,11/03/2020,Italia,11/03/2020,40 años y 1 día-50 años,20/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,32,15/03/2020,España,15/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,47,14/03/2020,Alemania,13/03/2020,40 años y 1 día-50 años,19/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,51,16/03/2020,Estados Unidos,15/03/2020,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,33,15/03/2020,España,05/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,31,03/03/2020,España,01/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+BC,M,62,17/03/2020,Contacto,No aplica,60 años y 1 día-70 años,20/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,34,18/03/2020,Francia,16/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,38,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,19/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,55,11/03/2020,Contacto,No aplica,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,53,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,58,15/03/2020,España,14/03/2020,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,M,61,15/03/2020,España,14/03/2020,60 años y 1 día-70 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,F,59,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,46,09/03/2020,Estados Unidos,11/03/2020,40 años y 1 día-50 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,75,08/03/2020,Estados Unidos,14/03/2020,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,80,14/03/2020,Estados Unidos,14/03/2020,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Desconocido
+NL,F,31,10/03/2020,Contacto,10/03/2020,30 años y 1 día-40 años,20/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,38,10/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,35,09/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,61,16/03/2020,España,11/03/2020,60 años y 1 día-70 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,37,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,13/03/2020,Contacto,No aplica,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+BC,M,26,15/03/2020,Francia,13/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,57,14/03/2020,España,16/03/2020,50 años y 1 día-60 años,21/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,21,17/03/2020,España,15/03/2020,20 años y 1 día-30 años,20/03/2020,Comunicado técnico diario,Desconocido
+BC,F,34,11/03/2020,Estados Unidos,08/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,0,16/03/2020,Contacto,No aplica,10 años y menos,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20
+Pue,M,56,14/03/2020,Estados Unidos,07/03/2020,50 años y 1 día-60 años,20/03/2020,Comunicado técnico diario,Desconocido
+Nay,F,48,17/03/2020,España,17/03/2020,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,24,14/03/2020,Estados Unidos,07/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+Chih,F,18,15/03/2020,Estados Unidos,14/03/2020,10 años y 1 día-20 años,20/03/2020,Comunicado técnico diario,Desconocido
+BC,M,39,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,29,10/03/2020,Estados Unidos,01/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,77,13/03/2020,Contacto,No aplica,70 años y 1 día-80 años,20/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,33,14/03/2020,España,18/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,44,17/03/2020,España,17/03/2020,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,20,17/03/2020,Contacto,No aplica,10 años y 1 día-20 años,20/03/2020,Comunicado técnico diario,Desconocido
+Zac,M,38,08/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,29,18/03/2020,España,16/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,33,11/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+NL,M,32,15/03/2020,Estados Unidos,16/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+NL,F,27,18/03/2020,Estados Unidos,14/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+NL,M,35,17/03/2020,Estados Unidos,15/03/2020,30 años y 1 día-40 años,21/03/2020,"Inferencia. Repetido px 246 401 de tabla del 29-mar-20, dejé el 246",Repetido px 246 401 de tabla del 29-mar-20
+Pue,F,30,16/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,27,15/03/2020,Francia,15/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,43,09/03/2020,España,13/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,06/03/2020,Estados Unidos,02/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,71,04/03/2020,España,14/03/2020,70 años y 1 día-80 años,23/03/2020,"Inferencia. No estaba marcado como nuevo en la tabla del 23/03/20, pero es el único paciente que coinicde con las descripciones de uno de los fallecidos de ese día, por lo que lo puse como nuevo",Fallecido
+CDMX,F,25,09/03/2020,España,13/03/2020,20 años y 1 día-30 años,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20
+CDMX,M,43,08/03/2020,España,04/03/2020,40 años y 1 día-50 años,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20
+CDMX,F,31,03/03/2020,Alemania,09/03/2020,30 años y 1 día-40 años,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20,No marcado como nuevo en tabla del 22-mar-20
+Ver,M,31,16/03/2020,España,13/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,29,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+Dgo,F,68,18/03/2020,Contacto,No aplica,60 años y 1 día-70 años,21/03/2020,Comunicado técnico diario,Desconocido
+BC,F,26,13/03/2020,Estados Unidos,16/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,20,09/03/2020,España,17/03/2020,10 años y 1 día-20 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,54,15/03/2020,Contacto,No aplica,50 años y 1 día-60 años,21/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,58,17/03/2020,Estados Unidos,04/03/2020,50 años y 1 día-60 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+BC,M,35,18/03/2020,Estados Unidos,16/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,35,14/03/2020,Estados Unidos,13/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,53,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,21/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,27,17/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,51,11/03/2020,España,16/03/2020,50 años y 1 día-60 años,21/03/2020,Comunicado técnico diario,Desconocido
+Tamps,F,33,16/03/2020,Francia,07/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,46,12/03/2020,Estados Unidos,12/03/2020,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,42,06/03/2020,Contacto,No aplica,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,35,16/03/2020,Estados Unidos,09/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,29,17/03/2020,Singapur,09/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,37,10/03/2020,Estados Unidos,11/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,14/03/2020,España,16/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,34,14/03/2020,Francia,12/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,55,09/03/2020,España,12/03/2020,50 años y 1 día-60 años,26/03/2020,"Inferencia. No estaba marcado como nuevo en la tabla del 26/03/20, pero es el único paciente que coinicde con las descripciones de uno de los fallecidos de ese día, por lo que lo puse como nuevo",Fallecido
+CDMX,F,40,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,58,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,21/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,48,16/03/2020,Estados Unidos,14/03/2020,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,41,18/03/2020,España,14/03/2020,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+Chih,M,47,18/03/2020,Estados Unidos,13/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,48,13/03/2020,Contacto,No aplica,40 años y 1 día-50 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,35,08/03/2020,España,08/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,29,17/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,52,11/03/2020,Contacto,No aplica,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,25,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,21/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,36,09/03/2020,España,15/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,55,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+BC,M,27,13/03/2020,Francia,13/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Chih,F,19,13/03/2020,España,14/03/2020,10 años y 1 día-20 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,37,16/03/2020,España,16/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Chih,F,21,16/03/2020,España,14/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,51,17/03/2020,Contacto,08/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,40,15/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,36,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,55,12/03/2020,Contacto,No aplica,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,27,17/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,38,15/03/2020,Estados Unidos,16/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,21,19/03/2020,Contacto,18/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,34,18/03/2020,Francia,05/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Camp,M,52,12/03/2020,España,18/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,26,18/03/2020,Francia,17/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,71,17/03/2020,España,17/03/2020,70 años y 1 día-80 años,22/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,17,10/03/2020,Estados Unidos,08/03/2020,10 años y 1 día-20 años,22/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,19,10/03/2020,Estados Unidos,08/03/2020,10 años y 1 día-20 años,22/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,39,14/03/2020,Estados Unidos,14/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Son,M,30,18/03/2020,Francia,13/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,57,15/03/2020,Contacto,15/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,57,18/03/2020,Contacto,15/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,31,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20
+BC,F,49,12/03/2020,Contacto,No aplica,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+Zac,M,39,19/03/2020,Contacto,19/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Col,F,34,12/03/2020,Estados Unidos,11/03/2020,30 años y 1 día-40 años,21/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,44,19/02/2020,Italia,22/02/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,52,10/03/2020,España,12/03/2020,50 años y 1 día-60 años,Repetido px 156 315 de tabla del 28-mar-20,"Inferencia. Repetido px 156 315 de tabla del 29-mar-20, dejé el 315",Repetido px 156 315 de tabla del 29-mar-20
+Coah,M,43,16/03/2020,Estados Unidos,13/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,31,13/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,34,16/03/2020,Estados Unidos,17/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,58,16/03/2020,Francia,17/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,43,18/03/2020,Estados Unidos,18/03/2020,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Tamps,F,21,16/03/2020,España,12/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,25,13/03/2020,Estados Unidos,06/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,40,10/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,38,11/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,32,13/03/2020,Estados Unidos,02/03/2020,30 años y 1 día-40 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,30,18/03/2020,Estados Unidos,09/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,18/03/2020,Estados Unidos,11/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,11,18/03/2020,Estados Unidos,11/03/2020,10 años y 1 día-20 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,53,17/03/2020,Estados Unidos,11/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,18/03/2020,Estados Unidos,No aplica,40 años y 1 día-50 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+EdoMex,M,46,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,62,16/03/2020,España,19/03/2020,60 años y 1 día-70 años,22/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,24,17/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20,No marcado como nuevo en tabla del 23-mar-20
+Yuc,F,42,18/03/2020,Francia,18/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,30,13/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,40,19/03/2020,Contacto,13/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,60,14/03/2020,España,13/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+Oax,M,22,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+NL,M,57,13/03/2020,Estados Unidos,12/03/2020,50 años y 1 día-60 años,22/03/2020,Comunicado técnico diario,Desconocido
+NL,M,22,14/03/2020,Estados Unidos,13/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,76,20/03/2020,España,14/03/2020,70 años y 1 día-80 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,20/03/2020,España,14/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,42,20/03/2020,España,14/03/2020,40 años y 1 día-50 años,22/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,19,20/03/2020,Contacto,No aplica,10 años y 1 día-20 años,23/03/2020,Comunicado técnico diario,Desconocido
+Son,M,22,11/03/2020,España,17/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+BCS,F,33,16/03/2020,Contacto,07/03/2020,30 años y 1 día-40 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+Qro,M,37,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,55,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Fallecido
+EdoMex,M,24,20/03/2020,Italia,14/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,29,20/03/2020,España,15/03/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,29,12/03/2020,Estados Unidos,27/02/2020,20 años y 1 día-30 años,22/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,30,21/03/2020,España,15/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,20,14/03/2020,Contacto,No aplica,10 años y 1 día-20 años,28/03/2020,Comunicado técnico diario,Desconocido
+Camp,F,59,06/03/2020,España,15/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,65,18/03/2020,España,15/03/2020,60 años y 1 día-70 años,23/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,29,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,33,13/03/2020,Estados Unidos,12/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,63,12/03/2020,España,04/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,28,16/03/2020,Estados Unidos,06/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,49,14/03/2020,España,04/03/2020,40 años y 1 día-50 años,24/03/2020,Comunicado técnico diario,Desconocido
+BC,M,30,19/03/2020,Estados Unidos,09/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+Zac,M,28,18/03/2020,España,15/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,51,05/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,38,13/03/2020,Contacto,No aplica,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,37,15/03/2020,Contacto,16/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,28,15/03/2020,Estados Unidos,17/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,30,13/03/2020,Estados Unidos,11/03/2020,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,60,17/03/2020,España,15/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,46,15/03/2020,Contacto,No aplica,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,18,19/03/2020,España,16/03/2020,10 años y 1 día-20 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,12,15/03/2020,Contacto,No aplica,10 años y 1 día-20 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,52,17/03/2020,España,15/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,16,13/03/2020,Contacto,No aplica,10 años y 1 día-20 años,24/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,24,14/03/2020,Contacto,No aplica,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,19,16/03/2020,España,16/03/2020,10 años y 1 día-20 años,23/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,48,15/03/2020,Contacto,15/03/2020,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,58,15/03/2020,Contacto,15/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,44,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,37,19/03/2020,Estados Unidos,17/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,32,18/03/2020,Estados Unidos,17/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,38,18/03/2020,Estados Unidos,17/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,50,15/03/2020,Contacto,15/03/2020,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,56,15/03/2020,Contacto,15/03/2020,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,44,11/03/2020,España,15/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,70,15/03/2020,Contacto,No aplica,60 años y 1 día-70 años,23/03/2020,Comunicado técnico diario,Fallecido
+EdoMex,M,60,14/03/2020,España,12/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,20,15/03/2020,España,16/03/2020,10 años y 1 día-20 años,24/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,32,16/03/2020,España,16/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,39,18/03/2020,Estados Unidos,13/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,F,63,13/03/2020,Francia,14/03/2020,60 años y 1 día-70 años,24/03/2020,Comunicado técnico diario,Desconocido
+BC,M,51,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,36,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,21,18/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,No marcado como nuevo en tabla del 24-mar-20,No marcado como nuevo en tabla del 24-mar-20,No marcado como nuevo en tabla del 24-mar-20
+QRoo,F,19,11/03/2020,Estados Unidos,09/03/2020,10 años y 1 día-20 años,23/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,48,19/03/2020,Contacto,13/03/2020,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+Tamps,M,29,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,34,20/03/2020,Francia,17/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,F,30,17/03/2020,Contacto,No aplica,20 años y 1 día-30 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,55,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,32,15/03/2020,Contacto,No aplica,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,35,17/03/2020,Estados Unidos,15/03/2020,30 años y 1 día-40 años,23/03/2020,"Inferencia. Repetido px 246 401 de tabla del 29-mar-20, dejé el 401",Repetido px 246 401 de tabla del 29-mar-20
+NL,M,39,14/03/2020,Contacto,13/03/2020,30 años y 1 día-40 años,23/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,77,16/03/2020,Contacto,No aplica,70 años y 1 día-80 años,23/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,45,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,37,17/03/2020,España,18/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,52,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,23/03/2020,Comunicado técnico diario,Desconocido
+NL,M,40,11/03/2020,Estados Unidos,09/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,F,66,19/03/2020,Contacto,No aplica,60 años y 1 día-70 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,M,20,15/03/2020,Estados Unidos,14/03/2020,10 años y 1 día-20 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,M,21,14/03/2020,España,15/03/2020,20 años y 1 día-30 años,24/03/2020,"Inferencia. Repetido px 104 410 de tabla del 29-mar-20, dejé el 410",Repetido px 104 410 de tabla del 29-mar-20
+NL,F,24,17/03/2020,Estados Unidos,16/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,M,42,13/03/2020,Estados Unidos,10/03/2020,40 años y 1 día-50 años,24/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,63,08/03/2020,Contacto,No aplica,60 años y 1 día-70 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,F,27,20/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,M,28,14/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+NL,M,30,15/03/2020,Estados Unidos,09/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,76,17/03/2020,Estados Unidos,20/03/2020,70 años y 1 día-80 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,61,16/03/2020,Italia,12/03/2020,60 años y 1 día-70 años,24/03/2020,Comunicado técnico diario,Fallecido
+NL,F,27,09/03/2020,Italia,07/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,38,08/03/2020,España,04/03/2020,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,74,08/03/2020,España,04/03/2020,70 años y 1 día-80 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,51,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,66,15/03/2020,España,09/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,28,16/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,47,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,73,16/03/2020,España,15/03/2020,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,40,18/03/2020,Contacto,15/03/2020,30 años y 1 día-40 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,76,10/03/2020,Francia,11/03/2020,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,56,16/03/2020,Francia,17/03/2020,50 años y 1 día-60 años,24/03/2020,"Inferencia. Repetido px 429 464 de tabla del 29-mar-20, dejé el 429",Repetido px 429 464 de tabla del 29-mar-20
+Gto,F,53,16/03/2020,Francia,17/03/2020,50 años y 1 día-60 años,24/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,48,21/03/2020,Francia,17/03/2020,40 años y 1 día-50 años,24/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,47,12/03/2020,Contacto,08/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,46,17/03/2020,Estados Unidos,02/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,49,15/03/2020,España,15/03/2020,40 años y 1 día-50 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,10,13/03/2020,Contacto,No aplica,10 años y menos,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,88,20/03/2020,Contacto,No aplica,más de 80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,28,19/03/2020,Francia,15/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,30,19/03/2020,Francia,18/03/2020,20 años y 1 día-30 años,24/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,40,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,79,18/03/2020,Contacto,No aplica,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,47,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,38,10/03/2020,Contacto,No aplica,30 años y 1 día-40 años,24/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,23,11/03/2020,España,15/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,64,15/03/2020,Francia,11/03/2020,60 años y 1 día-70 años,24/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,76,21/03/2020,Contacto,21/03/2020,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Chih,F,18,21/03/2020,España,18/03/2020,10 años y 1 día-20 años,24/03/2020,Comunicado técnico diario,Desconocido
+Nay,F,66,19/03/2020,Estados Unidos,12/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,67,13/03/2020,Contacto,No aplica,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,69,17/03/2020,Contacto,No aplica,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,62,13/03/2020,Contacto,No aplica,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,72,16/03/2020,Contacto,No aplica,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,38,18/03/2020,Estados Unidos,18/03/2020,30 años y 1 día-40 años,25/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,62,20/03/2020,Contacto,21/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Oax,M,56,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,21,19/03/2020,Contacto,No aplica,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,82,23/03/2020,España,13/03/2020,más de 80 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,48,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,31,13/03/2020,España,15/03/2020,30 años y 1 día-40 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,26,12/03/2020,Contacto,No aplica,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,51,18/03/2020,España,16/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,60,10/03/2020,Francia,19/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,24,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,29,15/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,56,16/03/2020,Francia,17/03/2020,50 años y 1 día-60 años,25/03/2020,"Inferencia. Repetido px 429 464 de tabla del 29-mar-20, dejé el 464",Repetido px 429 464 de tabla del 29-mar-20
+Gto,F,22,17/03/2020,España,16/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,65,20/03/2020,España,14/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,47,16/03/2020,Francia,17/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,29,16/03/2020,España,16/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,41,18/03/2020,España,16/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,57,18/03/2020,España,18/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,16,20/03/2020,Contacto,No aplica,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,17,13/03/2020,Contacto,No aplica,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,24,15/03/2020,Estados Unidos,19/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,36,15/03/2020,Estados Unidos,08/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,25,13/03/2020,Estados Unidos,06/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,60,14/03/2020,Contacto,No aplica,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,28,02/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,42,21/03/2020,Estados Unidos,19/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,53,10/03/2020,Francia,18/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,50,12/03/2020,España,09/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,38,20/03/2020,Contacto,23/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,17/03/2020,España,14/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,20,16/03/2020,Contacto,16/03/2020,10 años y 1 día-20 años,25/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,49,16/03/2020,España,15/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,29,16/03/2020,Estados Unidos,09/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Tamps,M,75,22/03/2020,Contacto,No aplica,70 años y 1 día-80 años,25/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,40,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+BCS,F,31,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20,No marcado como nuevo en tabla del 26-mar-20
+Jal,M,49,12/03/2020,Estados Unidos,08/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,45,16/03/2020,Estados Unidos,03/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,45,13/03/2020,Contacto,No aplica,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Tlax,F,19,16/03/2020,Estados Unidos,21/03/2020,10 años y 1 día-20 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,65,16/03/2020,España,14/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,34,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,25/03/2020,Comunicado técnico diario,Desconocido
+Mor,F,35,16/03/2020,Estados Unidos,16/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,53,23/03/2020,España,23/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,45,13/03/2020,España,19/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,F,50,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,33,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,20,22/03/2020,Contacto,No aplica,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,46,21/03/2020,Estados Unidos,20/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,59,23/03/2020,Contacto,No aplica,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,24,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,20,13/03/2020,Estados Unidos,21/03/2020,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,58,12/03/2020,Contacto,No aplica,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,31,16/03/2020,España,15/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,58,20/03/2020,España,17/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,69,15/03/2020,Contacto,23/03/2020,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,60,20/03/2020,Francia,12/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,30,21/03/2020,Francia,21/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,47,16/03/2020,España,15/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,20,20/03/2020,Estados Unidos,07/03/2020,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,72,18/03/2020,Francia,17/03/2020,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,30,18/03/2020,Estados Unidos,14/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,16,23/03/2020,Contacto,23/03/2020,10 años y 1 día-20 años,25/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,42,22/03/2020,Estados Unidos,14/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,54,12/03/2020,Estados Unidos,08/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,21,22/03/2020,España,13/03/2020,20 años y 1 día-30 años,25/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,69,18/03/2020,España,15/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,21,12/03/2020,Estados Unidos,07/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,71,16/03/2020,Estados Unidos,13/03/2020,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,49,17/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,74,15/03/2020,Contacto,No aplica,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,51,12/03/2020,Estados Unidos,09/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,48,06/03/2020,Estados Unidos,05/02/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,20,16/03/2020,Contacto,No aplica,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,46,20/03/2020,Francia,06/03/2020,40 años y 1 día-50 años,25/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,72,12/03/2020,Estados Unidos,06/03/2020,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,26,18/03/2020,España,21/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,22,22/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+NL,F,30,18/03/2020,España,16/03/2019,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,47,16/03/2020,Estados Unidos,15/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,42,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,50,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,33,22/03/2020,España,14/03/2020,30 años y 1 día-40 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,48,16/03/2020,Estados Unidos,15/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,30,17/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,72,14/03/2020,Contacto,No aplica,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+NL,F,26,21/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,F,50,15/03/2020,Estados Unidos,13/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Mor,F,61,23/03/2020,Contacto,No aplica,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+Son,M,44,17/03/2020,España,10/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,46,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+NL,M,26,18/03/2020,España,16/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+NL,M,41,09/03/2020,Estados Unidos,09/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Son,M,24,17/03/2020,Estados Unidos,19/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Nay,M,53,21/03/2020,Contacto,24/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,27,23/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,35,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Nay,M,53,24/03/2020,Contacto,24/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,62,15/03/2020,Contacto,15/03/2020,60 años y 1 día-70 años,25/03/2020,Comunicado técnico diario,Desconocido
+Son,F,50,20/03/2020,España,16/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,53,19/03/2020,Contacto,12/03/2020,50 años y 1 día-60 años,25/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,38,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,74,22/03/2020,Contacto,No aplica,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,23,17/03/2020,Francia,21/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,58,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,67,22/03/2020,Contacto,21/03/2020,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,26,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,23,20/03/2020,Estados Unidos,17/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,75,25/03/2020,Contacto,20/03/2020,70 años y 1 día-80 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,28,19/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,49,20/03/2020,Estados Unidos,20/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,62,17/03/2020,Contacto,No aplica,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+Son,F,45,15/03/2020,España,16/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Nay,F,32,10/03/2020,Francia,18/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,26,15/03/2020,España,16/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,F,57,19/03/2020,Estados Unidos,08/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,33,16/03/2020,Estados Unidos,27/02/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,42,15/03/2020,Estados Unidos,11/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,37,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,40,12/03/2020,España,15/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,46,15/03/2020,España,14/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,40,12/03/2020,España,15/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,39,12/03/2020,Estados Unidos,08/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,51,19/03/2020,España,15/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,M,40,05/03/2020,Estados Unidos,10/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,67,16/03/2020,Contacto,16/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,51,20/03/2020,España,15/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,34,13/03/2020,España,14/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,28,20/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Zac,F,57,12/03/2020,Contacto,29/02/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,59,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,26,15/03/2020,España,14/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,M,25,20/03/2020,Contacto,21/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,19,17/03/2020,Francia,11/03/2020,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,19,16/03/2020,Estados Unidos,15/03/2020,10 años y 1 día-20 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,F,41,20/03/2020,Estados Unidos,19/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,44,20/03/2020,Estados Unidos,14/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,M,30,16/03/2020,España,18/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,50,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+BC,F,64,13/03/2020,Contacto,No aplica,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,66,22/03/2020,Estados Unidos,15/03/2020,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tlax,M,38,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,60,16/03/2020,Estados Unidos,11/03/2020,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,55,15/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,41,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,26,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,41,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,60,13/03/2020,Contacto,15/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,53,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,31,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Dgo,M,25,23/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,23,15/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,29,13/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,49,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,67,19/03/2020,Contacto,No aplica,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,49,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,44,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,20,22/03/2020,Contacto,19/03/2020,10 años y 1 día-20 años,27/03/2020,Comunicado técnico diario,Desconocido
+Oax,M,36,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,27,23/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,29,24/03/2020,España,18/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,60,18/03/2020,Contacto,23/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tlax,M,45,17/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,25,18/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,25,19/03/2020,España,14/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,M,42,19/03/2020,Francia,20/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Chis,F,32,22/03/2020,Estados Unidos,18/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,36,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,42,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Dgo,M,80,18/03/2020,Contacto,No aplica,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,31,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,58,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tlax,M,56,22/03/2020,Estados Unidos,21/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,68,17/03/2020,Contacto,No aplica,60 años y 1 día-70 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,49,02/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,56,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,22,24/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,22,16/03/2020,Contacto,15/03/2020,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+NL,M,23,14/03/2020,España,16/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,36,16/03/2020,España,03/03/2020,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,33,12/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,37,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Hgo,F,49,23/03/2020,Contacto,23/03/2020,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,51,10/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,36,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,31,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,68,18/03/2020,Contacto,No aplica,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,48,16/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,60,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,42,21/03/2020,Contacto,18/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,33,22/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,56,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,26/03/2020,"Inferencia. Las notas periodísticas dicen que teníaentre 50 y 59 años, y este es el único paciente de la lista hasta ahora con esa edad",Fallecido
+EdoMex,F,33,10/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,26,09/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,28,21/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,43,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,46,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,28,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,31,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,41,24/03/2020,Contacto,No aplica,40 años y 1 día-50 años,26/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,44,05/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,52,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,66,21/03/2020,Contacto,No aplica,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,37,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,"Inferncia. Repetido px 657 680 de tabla del 29-mar-20, dejé el 657",Repetido px 657 680 de tabla del 29-mar-20
+Yuc,M,72,19/03/2020,Contacto,21/03/2020,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,36,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,51,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,40,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,67,17/03/2020,Contacto,21/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,31,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,33,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,23,17/03/2020,Estados Unidos,18/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,33,12/03/2020,Estados Unidos,19/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,46,13/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,38,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,37,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,16/03/2020,Estados Unidos,15/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,56,16/03/2020,Estados Unidos,09/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,48,12/03/2020,Estados Unidos,09/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,35,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,50,01/03/2020,Estados Unidos,08/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+BC,M,28,18/03/2020,Estados Unidos,10/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,21,20/03/2020,España,19/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,35,15/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,34,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,58,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,37,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,"Inferencia. Repetido px 657 680 de tabla del 29-mar-20, dejé el 680",Repetido px 657 680 de tabla del 29-mar-20
+EdoMex,M,42,16/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,20/03/2020,Contacto,06/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,45,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,32,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,M,64,18/03/2020,Estados Unidos,11/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,74,18/03/2020,Contacto,17/03/2020,70 años y 1 día-80 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,50,01/03/2020,Estados Unidos,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,49,15/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,36,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,47,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,34,16/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,F,46,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,77,21/03/2020,España,19/03/2020,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,40,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,29,21/03/2020,Contacto,21/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,60,20/03/2020,Estados Unidos,17/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,25,17/03/2020,Estados Unidos,17/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,19,20/03/2020,Estados Unidos,19/03/2020,10 años y 1 día-20 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,63,22/03/2020,Contacto,22/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,43,22/03/2020,Estados Unidos,24/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,64,18/03/2020,Contacto,No aplica,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Mich,M,71,17/03/2020,Contacto,No aplica,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,51,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,65,12/03/2020,Estados Unidos,17/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,43,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,65,23/03/2020,Contacto,No aplica,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Son,F,56,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,35,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,F,23,22/03/2020,España,16/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,24,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,21,21/03/2020,Contacto,21/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,64,24/03/2020,Contacto,No aplica,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,18,22/03/2020,Estados Unidos,12/03/2020,10 años y 1 día-20 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,13,22/03/2020,Contacto,No aplica,10 años y 1 día-20 años,27/03/2020,Comunicado técnico diario,Desconocido
+NL,M,28,20/03/2020,Contacto,18/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,66,22/03/2020,Contacto,23/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,5,25/03/2020,Contacto,25/03/2020,10 años y menos,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20
+Qro,F,47,17/03/2020,Francia,17/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,37,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,59,22/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,37,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,39,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,22,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,47,18/03/2020,Estados Unidos,18/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,23,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,52,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,56,20/03/2020,Estados Unidos,13/03/2020,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,35,21/03/2020,Contacto,17/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,77,20/03/2020,Contacto,No aplica,70 años y 1 día-80 años,28/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,39,22/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,21,21/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,78,23/03/2020,Contacto,No aplica,70 años y 1 día-80 años,28/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,56,24/03/2020,Estados Unidos,17/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,52,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,50,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,24,18/03/2020,Contacto,No aplica,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,47,21/03/2020,Alemania,16/03/2020,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,53,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,73,24/03/2020,Contacto,26/03/2020,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Son,F,25,17/03/2020,Estados Unidos,19/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,44,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,27/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,43,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+NL,M,27,19/03/2020,Contacto,15/03/2020,20 años y 1 día-30 años,27/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,66,22/03/2020,Contacto,No aplica,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,40,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,64,09/03/2020,Estados Unidos,17/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,37,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,27/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,81,22/03/2020,Contacto,No aplica,más de 80 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,65,12/03/2020,España,09/03/2020,60 años y 1 día-70 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,58,19/03/2020,España,15/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,76,15/03/2020,Contacto,17/03/2020,70 años y 1 día-80 años,27/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,24,23/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,59,09/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,59,09/03/2020,Contacto,No aplica,50 años y 1 día-60 años,27/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,37,09/03/2020,España,13/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,31,07/03/2020,España,10/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,40,22/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,35,08/03/2020,Estados Unidos,07/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,29,13/03/2020,Estados Unidos,06/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,23,16/03/2020,España,16/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,14/03/2020,España,05/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,20,14/03/2020,España,12/03/2020,10 años y 1 día-20 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,50,09/03/2020,España,11/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,52,17/03/2020,España,16/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,27,18/03/2020,España,14/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,55,10/03/2020,Estados Unidos,12/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,26,11/03/2020,España,13/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,33,18/03/2020,Contacto,12/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+BC,F,28,18/03/2020,España,19/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,33,19/03/2020,Estados Unidos,18/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,32,20/03/2020,Francia,19/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,22,14/03/2020,España,20/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,60,18/03/2020,Contacto,13/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,48,20/03/2020,España,13/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,33,13/03/2020,España,12/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,31,18/03/2020,España,18/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,36,18/03/2020,España,18/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,45,21/03/2020,Estados Unidos,18/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,30,17/03/2020,España,18/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,34,17/03/2020,España,09/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,44,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,53,17/03/2020,Francia,15/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,35,02/03/2020,Italia,15/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,38,13/03/2020,España,08/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,56,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,26,20/03/2020,Contacto,18/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,29,16/03/2020,Contacto,21/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,26,22/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,72,19/03/2020,Contacto,No aplica,70 años y 1 día-80 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,39,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,47,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,37,19/02/2020,Contacto,21/01/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,51,22/03/2020,España,19/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,45,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,43,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,56,23/03/2020,España,23/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,60,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,"Inferencia. Repetido px 797 979 de tabla del 29-mar-20, dejé el 797",Repetido px 797 979 de tabla del 29-mar-20
+EdoMex,M,36,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,30,17/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,58,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,71,25/03/2020,Contacto,No aplica,70 años y 1 día-80 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,2,17/03/2020,Contacto,No aplica,10 años y menos,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20
+EdoMex,M,35,24/03/2020,Estados Unidos,08/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,49,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,57,24/03/2020,Contacto,18/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,33,21/03/2020,Estados Unidos,12/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,30,12/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,29,23/03/2020,España,23/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,29,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,33,19/03/2020,Francia,17/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,41,18/03/2020,Estados Unidos,16/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,17/03/2020,Contacto,17/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,34,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,52,24/03/2020,Contacto,18/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,24,15/03/2020,Francia,11/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,31,19/03/2020,Francia,04/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,61,21/03/2020,Contacto,No aplica,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,40,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,"Inferencia. Repetido px 818 863 de tabla del 29-mar-20, dejé el 818",Repetido px 818 863 de tabla del 29-mar-20
+CDMX,M,36,15/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,54,15/03/2020,España,18/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,58,24/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,21,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+BC,M,43,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,61,16/03/2020,España,16/03/2020,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,60,24/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,46,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,70,26/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,46,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,34,14/03/2020,Estados Unidos,13/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,36,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,3,23/03/2020,Estados Unidos,16/03/2020,10 años y menos,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20,No marcado como nuevo en tabla del 30-mar-20
+Gro,M,53,20/03/2020,Estados Unidos,11/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,53,15/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,54,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,48,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,33,21/03/2020,Italia,16/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Ags,M,40,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,30,25/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Camp,M,18,18/03/2020,Estados Unidos,25/02/2020,10 años y 1 día-20 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,63,20/03/2020,Contacto,No aplica,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,49,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,24,21/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,36,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,65,20/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,23,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Tamps,M,50,21/03/2020,Estados Unidos,16/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,18,07/03/2020,Contacto,No aplica,10 años y 1 día-20 años,29/03/2020,Comunicado técnico diario,Desconocido
+Mich,F,63,22/03/2020,Contacto,No aplica,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,30,22/03/2020,España,22/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,41,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,35,14/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,55,26/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,59,17/03/2020,Contacto,24/03/2020,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,31,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,28,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,54,14/03/2020,Contacto,09/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,40,16/03/2020,Contacto,29/02/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,43,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,33,24/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,29,18/03/2020,Contacto,No aplica,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,26,22/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,65,19/03/2020,España,09/03/2020,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,40,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,"Inferencia. Repetido px 818 863 de tabla del 29-mar-20, dejé el 863",Repetido px 818 863 de tabla del 29-mar-20
+CDMX,M,43,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,53,23/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,35,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,60,20/03/2020,Estados Unidos,20/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,36,24/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,41,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,49,26/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,67,20/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,33,27/03/2020,Contacto,23/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,42,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,57,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,65,12/03/2020,Contacto,14/03/2020,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,44,26/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Son,F,30,16/03/2020,Estados Unidos,26/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gro,F,43,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,51,24/03/2020,Estados Unidos,21/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,32,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,35,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,39,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,51,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,24,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,25,16/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,27,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+NL,F,26,17/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,75,23/03/2020,Contacto,No aplica,70 años y 1 día-80 años,29/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,43,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Son,F,27,24/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,55,22/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,53,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,43,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,42,22/03/2020,Contacto,14/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+NL,M,56,23/03/2020,Estados Unidos,15/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Qro,F,67,20/03/2020,Contacto,23/03/2020,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,53,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,29,24/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,42,24/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Mor,M,44,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,43,24/03/2020,Contacto,10/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,28,19/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,73,26/03/2020,Contacto,No aplica,70 años y 1 día-80 años,28/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,45,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,22,24/03/2020,España,19/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,46,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+Son,F,21,16/03/2020,España,19/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+SLP,F,26,25/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,56,23/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Chis,F,38,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Son,F,82,26/03/2020,Contacto,No aplica,más de 80 años,29/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,58,26/03/2020,Contacto,No aplica,50 años y 1 día-60 años,28/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,21,24/03/2020,España,14/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,41,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,39,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Chis,M,81,25/03/2020,España,13/03/2020,más de 80 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,34,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,26,22/03/2020,Contacto,18/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,26,24/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,42,11/03/2020,Estados Unidos,10/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,38,22/03/2020,Contacto,18/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,44,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,33,12/03/2020,Estados Unidos,06/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,30,26/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,"Inferencia. Repetido px 926 927 de tabla del 29-mar-20, dejé el 926",Repetido px 926 927 de tabla del 29-mar-20
+Coah,M,30,26/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,"Inferencia. Repetido px 926 927 de tabla del 29-mar-20, dejé el 927",Repetido px 926 927 de tabla del 29-mar-20
+Coah,F,44,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Gro,M,52,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,39,24/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,35,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Chis,F,45,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,41,12/03/2020,España,13/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,43,15/03/2020,Contacto,No aplica,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,27,14/03/2020,Estados Unidos,15/03/2020,20 años y 1 día-30 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,35,26/03/2020,Estados Unidos,15/03/2020,30 años y 1 día-40 años,28/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,11/03/2020,Estados Unidos,08/03/2020,40 años y 1 día-50 años,28/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,61,26/03/2020,Estados Unidos,15/03/2020,60 años y 1 día-70 años,28/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,52,24/03/2020,Contacto,12/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,32,24/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,46,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,69,26/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Hgo,M,57,24/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,78,22/03/2020,Contacto,21/03/2020,70 años y 1 día-80 años,29/03/2020,Comunicado técnico diario,Desconocido
+NL,M,54,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,63,21/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,67,22/03/2020,Francia,22/02/2020,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,69,22/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,48,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,34,11/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,52,18/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,32,18/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,31,14/03/2020,España,13/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,50,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,27,15/03/2020,Contacto,25/02/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,40,14/03/2020,Estados Unidos,26/02/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,24,16/03/2020,Estados Unidos,12/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,21,17/03/2020,España,16/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,61,20/03/2020,Estados Unidos,21/03/2020,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,40,09/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,43,16/03/2020,España,08/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,25,22/03/2020,España,20/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,44,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Zac,F,52,13/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+BC,M,50,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,58,25/03/2020,España,23/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,41,17/03/2020,Contacto,16/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,24,19/03/2020,España,23/03/2020,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ags,F,37,18/03/2020,España,17/03/2020,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,42,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Mor,F,57,20/03/2020,Contacto,22/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,24,16/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,67,21/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,21,18/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,31,17/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+BC,M,56,23/03/2020,Contacto,24/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,46,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,43,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,23,19/03/2020,Contacto,No aplica,20 años y 1 día-30 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,33,21/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,68,10/03/2020,Contacto,No aplica,60 años y 1 día-70 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,25,19/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,60,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,"Inferencia. Repetido px 797 979 de tabla del 29-mar-20, dejé el 979",Repetido px 797 979 de tabla del 29-mar-20
+Tab,M,50,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,40,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,59,19/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+BC,M,18,20/03/2020,Contacto,27/03/2020,10 años y 1 día-20 años,30/03/2020,Comunicado técnico diario,Desconocido
+BC,F,50,20/03/2020,Contacto,20/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,40,26/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,59,25/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,49,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,56,25/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,40,27/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,30,18/03/2020,Estados Unidos,17/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,34,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Yuc,F,72,21/03/2020,Contacto,No aplica,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,33,26/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,59,25/03/2020,Contacto,No aplica,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,31,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,29/03/2020,Comunicado técnico diario,Desconocido
+Zac,F,39,21/03/2020,Estados Unidos,27/03/2020,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Oax,F,52,27/03/2020,Contacto,21/03/2020,50 años y 1 día-60 años,29/03/2020,Comunicado técnico diario,Desconocido
+Oax,M,44,26/03/2020,Estados Unidos,15/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,69,15/03/2020,Alemania,14/03/2020,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,50,21/03/2020,España,16/03/2020,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,45,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,54,14/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,47,16/03/2020,Contacto,No aplica,40 años y 1 día-50 años,29/03/2020,Comunicado técnico diario,Desconocido
+Jal,F,53,09/03/2020,España,12/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,26,20/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Son,M,59,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,64,23/03/2020,Contacto,No aplica,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,51,23/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+BCS,F,35,16/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Ver,M,48,20/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,25,23/03/2020,Contacto,23/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,54,23/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,22,23/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,38,22/03/2020,Estados Unidos,25/03/2020,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tamps,M,70,24/03/2020,Estados Unidos,24/03/2020,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+Sin,F,69,19/03/2020,Contacto,No aplica,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,46,18/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,72,25/03/2020,Contacto,No aplica,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+Chis,F,28,22/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,16,22/03/2020,Contacto,No aplica,10 años y 1 día-20 años,30/03/2020,Comunicado técnico diario,Desconocido
+BC,M,51,18/03/2020,Contacto,27/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,45,21/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,32,15/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,41,19/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Qro,M,60,26/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,29,21/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,24,22/03/2020,Estados Unidos,27/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+QRoo,F,30,18/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,F,25,26/03/2020,Estados Unidos,27/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,15,26/03/2020,Contacto,No aplica,10 años y 1 día-20 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,48,20/03/2020,Contacto,19/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,28,22/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,6,27/03/2020,Contacto,No aplica,10 años y menos,30/03/2020,Comunicado técnico diario,Desconocido
+SLP,M,55,24/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,42,24/03/2020,Contacto,17/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,63,22/03/2020,Contacto,21/03/2020,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,59,21/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,29,23/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,F,46,24/03/2020,Estados Unidos,22/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,21,13/03/2020,España,18/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Son,F,47,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,57,23/03/2020,Estados Unidos,17/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Son,F,57,17/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,31,27/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,62,21/03/2020,Estados Unidos,No aplica,60 años y 1 día-70 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,36,26/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,52,21/03/2020,España,15/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,24,28/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,49,28/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,72,23/03/2020,Contacto,No aplica,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,30,28/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,24,28/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,M,43,24/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Gto,M,46,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,37,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Sin,M,60,25/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,M,32,27/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Yuc,M,38,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,25,17/03/2020,Contacto,No aplica,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,34,19/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,54,27/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,49,28/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+BCS,M,33,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+Nay,M,71,23/03/2020,Contacto,16/03/2020,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,43,24/03/2020,Contacto,22/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Pue,F,75,23/03/2020,Contacto,No aplica,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+Tab,F,50,23/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,30,20/03/2020,Estados Unidos,23/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,F,22,19/03/2020,España,18/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,F,21,20/03/2020,España,16/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,34,18/03/2020,Contacto,16/03/2020,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,35,25/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,59,20/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,18,21/03/2020,Contacto,No aplica,10 años y 1 día-20 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,26,20/03/2020,Contacto,29/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,49,22/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+QRoo,M,52,25/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,34,26/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+NL,M,30,20/03/2020,Contacto,16/03/2020,20 años y 1 día-30 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,41,25/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,35,23/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,39,27/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,F,57,23/03/2020,Estados Unidos,04/03/2020,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+EdoMex,M,57,22/03/2020,Contacto,No aplica,50 años y 1 día-60 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,17,29/03/2020,Contacto,No aplica,10 años y 1 día-20 años,30/03/2020,Comunicado técnico diario,Desconocido
+Coah,M,48,29/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,77,13/03/2020,España,08/03/2020,70 años y 1 día-80 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,F,43,16/03/2020,España,16/03/2020,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+CDMX,M,47,14/03/2020,Contacto,No aplica,40 años y 1 día-50 años,30/03/2020,Comunicado técnico diario,Desconocido
+Jal,M,37,20/03/2020,Contacto,No aplica,30 años y 1 día-40 años,30/03/2020,Comunicado técnico diario,Desconocido
