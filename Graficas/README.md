@@ -1,7 +1,7 @@
 **Información importante: El 12 de abril la Secretaría de Salud comenzó a publicar datos abiertos, lo que significó para mí un cambio en el manejo de la información. Dedicaré unos días a adaptar los scripts y en cuanto lo logre volveré a actualizar el repositorio. Si tienes cualquier comentario por favor escríbeme a alancarrillop@gmail.com
 Sección BasesDeDatos**
 
-Esta sección contiene gráficas en formato png, producidos a partir de los datos originales ublicados por la Secretaría de Salud  [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos). Desde el 14 de marzo hasta el 12 de abril utilizaba el comunicado técnico diario y la tabla de casos confirmados. A partir del 12 de abril se comenzaron a publicar datos abiertos en formato csv mucho más detallados y decidí utilizarlos, manteniendo el uso del caomunicado técnico diario.
+Esta sección contiene gráficas en formato png, producidas a partir de los datos originales ublicados por la Secretaría de Salud  [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos). Desde el 14 de marzo hasta el 12 de abril utilizaba el comunicado técnico diario y la tabla de casos confirmados. A partir del 12 de abril se comenzaron a publicar datos abiertos en formato csv mucho más detallados y decidí utilizarlos, manteniendo el uso del caomunicado técnico diario.
 
 Todas las manipulaciones de datos y elaboración de gráficas las realizo con R y RStudio. El archivo de Metolodogia incluido en la sección principal describe cómo lo hago. A continuación describo las gráficas contenidas en esta sección.
 
@@ -26,3 +26,5 @@ Todas las manipulaciones de datos y elaboración de gráficas las realizo con R 
 - Pieplot_SexoCasosConfirmados_COVID19Mexico_\<fecha>.png: Es una gráfica de pastel que muestra el porcentaje de hombres y muejeres de los casos confirmados.
 
 Los datos originales son liberados por la SS todos los días aproximadamente a las 19:00 hr, tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche. Sin embargo mis ocupaciones no siempre me permiten hacerlo con la rapidez que debería.
+
+Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com.
