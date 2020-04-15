@@ -10,7 +10,9 @@ Obtengo los datos de la página oficial de la Secretaría de Salud (SS) [(click 
 
 Otra parte pequeña de los datos la obtengo de tweets de la Secretaría de Salud o sus funcionarios [(@SSalud_mx)](https://twitter.com/SSalud_mx), publicaciones de su página de Facebook [(@SecretariadeSaludMX)](https://www.facebook.com/SecretariadeSaludMX/), conferencias de pensa [(Canal de YouTube del Gobierno de México)](https://www.youtube.com/playlist?list=PL-wEE8VmWaJ1XfDoFFkVfxuwVRgBMIiNO) o páginas de secretarías de salud estatales.
 
-Todas las manipulaciones de los ldatos y elaboración de gráficas la hago con R y RStudio. El repositorio está formado por una sección de base de datos y otra de gráficas.
+Todas las manipulaciones de datos y elaboración de gráficas las realizo con R y RStudio. El archivo de Metolodogia incluido en esta sección describe cómo lo hago.
+
+El repositorio está formado por una sección de base de datos y otra de gráficas, que explico a continuacioón.
 
 ### Sección BasesDeDatos
 Contiene los siguientes archivos en formato csv:
