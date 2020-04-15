@@ -1,16 +1,16 @@
 # COVID19_Mexico
 
 ## Información general
-Este repositorio contiene bases de datos y gráficas con información del COVID19 en México. Comencé el proyecto el 17 de marzo pero hasta el 14 de abril escribí una descripción del repositorio.
+  Este repositorio contiene bases de datos y gráficas con información del COVID19 en México. Comencé el proyecto el 17 de marzo pero hasta el 14 de abril escribí una descripción del repositorio.
 
-Obtengo los datos de la página oficial de la Secretaría de Salud (SS) [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos), en la sección "Coronavirus (COVID-19)-Comunicado Técnico Diario", que comenzaron a publicarse el 14 de marzo. En esa sección se encuentra un mapa interactivo y tres documentos: comunicado técnico diario, tabla de casos sospechosos y tabla de casos positivos, todos en formato pdf. Hasta el 12 de abril eran los únicos datos nacionales que se podían encontrar, pero a partir del 13 de abril la misma institución, en su página oficial, en la sección "Datos Abiertos - Dirección General de Epidemiología", empezó a publicar además un archivo en formato csv que contiene mucha más información.
+  Obtengo los datos de la página oficial de la Secretaría de Salud (SS) [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos), en la sección "Coronavirus (COVID-19)-Comunicado Técnico Diario", que comenzaron a publicarse el 14 de marzo. En esa sección se encuentra un mapa interactivo y tres documentos: comunicado técnico diario, tabla de casos sospechosos y tabla de casos positivos, todos en formato pdf. Hasta el 12 de abril eran los únicos datos nacionales que se podían encontrar, pero a partir del 13 de abril la misma institución, en su página oficial, en la sección "Datos Abiertos - Dirección General de Epidemiología", empezó a publicar además un archivo en formato csv que contiene mucha más información.
 
-Otra parte pequeña de los datos la obtengo de tweets de la Secretaría de Salud o sus funcionarios [(@SSalud_mx)](https://twitter.com/SSalud_mx), publicaciones de su página de Facebook [(@SecretariadeSaludMX)](https://www.facebook.com/SecretariadeSaludMX/), conferencias de pensa [(Canal de YouTube del Gobierno de México)](https://www.youtube.com/playlist?list=PL-wEE8VmWaJ1XfDoFFkVfxuwVRgBMIiNO) o páginas de secretarías de salud estatales.
+  Otra parte pequeña de los datos la obtengo de tweets de la Secretaría de Salud o sus funcionarios [(@SSalud_mx)](https://twitter.com/SSalud_mx), publicaciones de su página de Facebook [(@SecretariadeSaludMX)](https://www.facebook.com/SecretariadeSaludMX/), conferencias de pensa [(Canal de YouTube del Gobierno de México)](https://www.youtube.com/playlist?list=PL-wEE8VmWaJ1XfDoFFkVfxuwVRgBMIiNO) o páginas de secretarías de salud estatales.
 
-Este repositorio está formado por una sección de base de datos y otra de gráficas.
+  El repositorio está formado por una sección de base de datos y otra de gráficas.
 
 ### Sección BasesDeDatos
-Contiene los siguientes archivos en formato csv:
+  Contiene los siguientes archivos en formato csv:
 
 - CONAPO_ProyeccionPoblacion_MitadAno.csv: Contiene las proyecciones de población totoal para cada entidad federativa, para mitad de 2020, dividida en grupos etáreos de 10 años, elaboradas por el Consejo Nacional de Población. Produje la tabla a partir del archivo orignal que puede ser descargado en la [(página de datos abiertos del gobierno federal)](https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050).
 
@@ -25,7 +25,7 @@ Contiene los siguientes archivos en formato csv:
 Esta sección no contiene los archivos originales de la SS porque considero que puede ser descargado sin complicaciones desde la página de la página oficial.
 
 ### Sección Graficas
-Contiene las siguientes gráficas en formato png:
+  Contiene las siguientes gráficas en formato png:
 
 - Barplot_CurvaEpidemica_COVID19Mexico_Test.png: Es un histograma donde el eje "x" indica la fecha de incio de los síntomas y el "y" la cantidad de casos en cada fecha.
 
@@ -43,18 +43,12 @@ Contiene las siguientes gráficas en formato png:
 
 - Lineplot_ReportesNuevos_COVID19Mexico_Test.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, recuperados y fallecidos nuevos.
 
-- Pieplot_DesenlaceCasosConfirmados_COVID19Mexico_12-abr-20.png: Es una gráfica de pastel que muestra el porcentaje de casos confirmados activos, recuperados y fallecidos. La cifra de casos recuperados no está contenida en ningún documento oficial, pero desde el 12 de abril se menciona en publicaciones en la [(página de Facebook de la Secretaría de Salud )](https://www.facebook.com/SecretariadeSaludMX/).
+- Pieplot_DesenlaceCasosConfirmados_COVID19Mexico_12-abr-20.png: Es una gráfica de pastel que muestra el porcentaje de casos confirmados activos, recuperados y fallecidos. La cifra de casos recuperados no está contenida en ningún documento oficial, pero desde el 12 de abril se menciona en publicaciones en la [página de Facebook de la Secretaría de Salud](https://www.facebook.com/SecretariadeSaludMX/).
 
 - Pieplot_SexoCasosConfirmados_COVID19Mexico_12-abr-20.png: Es una gráfica de pastel que muestra el porcentaje de hombres y muejeres de los casos confirmados.
 
-La información es liberada por la SS todos los días aproximadamente a las 19:00 hr tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche.
+  Los datos originales son liberados por la SS todos los días aproximadamente a las 19:00 hr, tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche. Sin embargo mis ocupaciones no siempre me permiten hacerlo con la rapidez que debería.
 
+  Existen muchas otras inciativas individuales y colaborativas para analizar los datos de la Secretaría de Salud de México respecto a COVID-19 en nuestro país, como el de [Gabriel Carrnco](https://github.com/carranco-sga), y otras más con excelentes visualizaciones, como [Covidatos](https://covidatos.mx/), [Covid-19: MxTracker](https://joelricci.shinyapps.io/covid_mx_jrl/), [Covid-19 M+exico](https://mexicovid19.github.io/Mexico/), etcétera.
 
-https://github.com/carranco-sga
-
-
-Las bases de datos son de elaboración propia a partir de la información publicada por la Secretaría de Salud de México [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos). Esta información se publica en formato pdf, para analizarla más fácilmente es que la transformamos a formato csv.
-
-La Secretaría de Salud ha publicado información global desde hace algunas semanas, pero comenzó a reportar datos nacionales útiles el 25 de febrero de 2020 aproximadamente. La Secretaría hace un corte de información diariamente aproximadamente a las 13:00 hr, y publica la información aproximadamente a las 19:00. Por lo tanto se pretende que todos los recursos existentes en este repositorio se actualicen diariamente aproximadamente a las 21:00 hr.
-
-Si tienes cualquier duda o comentario respecto a cualquier tema tratado en este repositorio por favor envía un correo a alancarrillop@gmail.com
+  Estoy abierto a recibir cualquier tipo de comentario. Si deseas hacer alguno o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com
