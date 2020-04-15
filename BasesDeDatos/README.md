@@ -1,5 +1,7 @@
-# Sección BasesDeDatos
-Contiene los siguientes archivos en formato csv:
+## Sección BasesDeDatos
+Esta sección contiene archivos en formato csv, producidos a partir de los datos originales ublicados por la Secretaría de Salud [(click para ver la página)](https://www.gob.mx/salud/es/archivo/documentos). Desde el 14 de marzo hasta el 12 de abril utilizaba el comunicado técnico diario y la tabla de casos confirmados. A partir del 12 de abril se comenzaron a publicar datos abiertos en formato csv mucho más detallados y decidí utilizarlos, manteniendo el uso del caomunicado técnico diario.
+
+Todas las manipulaciones de datos y elaboración de gráficas las realizo con R y RStudio. El archivo de Metolodogia incluido en la sección principal describe cómo lo hago. A continuación describo los archivos contenidos en esta sección.
 
 - CONAPO_ProyeccionPoblacion_MitadAno.csv: Contiene las proyecciones de población total para cada entidad federativa, para mitad de 2020, dividida en grupos de 10 años de edad, elaboradas por el Consejo Nacional de Población. Produje la tabla a partir del archivo orignal que puede ser descargado en la [página de datos abiertos del gobierno federal](https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050).
 
