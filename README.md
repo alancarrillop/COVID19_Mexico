@@ -52,6 +52,6 @@ Contiene las siguientes gráficas en formato png:
 
 Los datos originales son liberados por la SS todos los días aproximadamente a las 19:00 hr, tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche. Sin embargo mis ocupaciones no siempre me permiten hacerlo con la rapidez que debería.
 
-Existen muchas otras inciativas individuales y colaborativas para analizar los datos de la Secretaría de Salud de México respecto a COVID-19 en nuestro país, como el de [Gabriel Carrnco](https://github.com/carranco-sga), y otras más con excelentes visualizaciones, como [Covidatos](https://covidatos.mx/), [Covid-19: MxTracker](https://joelricci.shinyapps.io/covid_mx_jrl/), [Covid-19 M+exico](https://mexicovid19.github.io/Mexico/), etcétera.
+Existen muchas otras inciativas individuales y colaborativas para analizar los datos de la Secretaría de Salud de México respecto a COVID-19 en nuestro país, como el de [Gabriel Carrnco](https://github.com/carranco-sga), y otras más con excelentes visualizaciones, como [Covidatos](https://covidatos.mx/), [Covid-19: MxTracker](https://joelricci.shinyapps.io/covid_mx_jrl/), [Covid-19 México](https://mexicovid19.github.io/Mexico/), etcétera.
 
-Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com
+Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com.
