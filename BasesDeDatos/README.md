@@ -1,7 +1,14 @@
-# Bases de datos en formato csv
+# Sección BasesDeDatos
+Contiene los siguientes archivos en formato csv:
 
-Aquí encontrarás documentos en formato csv creados a partir de los datos provistos por la Secretaría de Salud. La Secretaría de Salud hace corte de la información diariamente aproximadamente a las 13:00 hr, y la hace pública en el transcurso de la noche. Se pretende que los documentos contenidos en este repositorio se actualicen diariamente también en el transcurso de la noche.
+- CONAPO_ProyeccionPoblacion_MitadAno.csv: Contiene las proyecciones de población total para cada entidad federativa, para mitad de 2020, dividida en grupos de 10 años de edad, elaboradas por el Consejo Nacional de Población. Produje la tabla a partir del archivo orignal que puede ser descargado en la [página de datos abiertos del gobierno federal](https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050).
 
-La información publicada por la Secretaría de Salud es en ocasiones ambigua. Por ejemplo, en el reporte de casos positivos los casos nuevos están rellenados con azul cielo. Esta cifra debería coincidir con el resultado de restar los casos reportados en el día actual y los del día anterior, del comunicado técnico diario; pero no siempre sucede.
+- CaracteristicasCasosConfirmados_COVID19Mexico_<fecha>.csv: Es la versión csv de la tabla de casos confirmados en formato pdf que publica la SS. Yo la actualizaba diariamente hasta el 12 de abril, cuando dejó de ser necesario debido a la aparición de los datos originales en formato abierto.
 
-Siempre que sea posible llenaremos los datos faltantes con los que nosotros hayamos podido investigar y corroborar. Pero cuando no estemos 100% seguros de su veracidad procederemos a hacer el análisis con los datos faltantes. Esto podría generar una discrepancia en lo publicado entre un día y otro en este repositorio, o entre este repositorio y otros.
+- FrecAcumYTasaIncid_PorEntidad_COVID19Mexico_<fecha>.csv: Contiene la frecuencia acumulada de los casos confirmados y tasa de incidencia por 100 mil habitantes, por entidad federativa, calculada hasta la fecha que señala el nombre del archivo. Para calcular la tasa de incidencia dividí la frecuencia acumulada entre la población de la entidad, y el resultado lo multipliqué por 100 mil. Obtuve la población de cada entidad de las proyecciones hechas por el Consejo Nacional de Población, mismas que están explicadas en esta sección.
+  
+- FrecAcumYTasaIncid_PorGrupoEdad_COVID19Mexico_<fecha>.csv: Contiene la frecuencia acumulada de los casos confirmados y tasa de incidencia por 100 mil habitantes, por grupos de 10 años de edad, calculada hasta la fecha que señala el nombre del archivo. Para calcular la tasa de incidencia dividí la frecuencia acumulada entre la población de ese grupo de edad, y el resultado lo multipliqué por 100 mil. Obtuve la población de cada grupo de edad de las proyecciones hechas por el Consejo Nacional de Población, mismas que están explicadas en esta sección.
+
+- ReporteCasos_COVID19Mexico_Ampliado.csv: Contiene los casos nuevos, acumulados y el porcentaje de cambio respecto al día anterior, de los casos sospechosos, confirmados, negativos, fallecidos, recuperados y estudiados, de todos los días. Para calcular el porcentake de cambio resté los casos nuevos del día anterior a los nuevos del día que se está reportando, el resultado lo dividí entre los casos nuevos del día anterior, y el resultado lo multipliqué por 100.
+
+Esta sección no contiene los archivos originales de la SS porque considero que pueden ser descargados sin complicaciones desde la página de la Secretaría de Salud.
