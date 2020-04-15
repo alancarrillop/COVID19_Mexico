@@ -16,3 +16,5 @@ Todas las manipulaciones de datos y elaboración de gráficas las realizo con R 
 - ReporteCasos_COVID19Mexico_Ampliado.csv: Contiene los casos nuevos, acumulados y el porcentaje de cambio respecto al día anterior, de los casos sospechosos, confirmados, negativos, fallecidos, recuperados y estudiados, de todos los días. Para calcular el porcentake de cambio resté los casos nuevos del día anterior a los nuevos del día que se está reportando, el resultado lo dividí entre los casos nuevos del día anterior, y el resultado lo multipliqué por 100.
 
 Esta sección no contiene los archivos originales de la SS porque considero que pueden ser descargados sin complicaciones desde la página de la Secretaría de Salud.
+
+Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com.
