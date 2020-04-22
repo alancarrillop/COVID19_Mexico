@@ -1,5 +1,4 @@
 # Metodología
-
 ## Obtención y manejo de los datos de la Secretaría de Salud
 ### Del 14 de marzo al 12 de abril
 Durante estos días mi fuente de los datos era el comunicado técnico diario y la tabla de casos positivos, publicados por la Secretaría de Salud.
@@ -30,7 +29,14 @@ Estos datos son necesarios para calcular la tasa de incidencia nacional, por ent
 
 Utilizando nuevamente RStudio extraje el año 2020 y fusioné diferentes campos para quedarme solo con la proyección por entidad federativa y por grupos de edad de10 años.
 
+## Cálculos
+Los cálculos matemáticos que hecho son los gieuientes:
 
+- Porcentaje de cambio respecto al día anterior: Tomé el número nuevo de casos positivos, recuperados y fallecidos del día que se reporta y les resté los del día anterior; el resultado lo dividí entre los casos del día anterior; el resultado lo multipliqué por 100.
+
+- Tasa de incidencia: La calculé para cada entidad federativa y grupo de edad. Tomé la cantidad acumulada de casos confirmados y la dividí entre la proyección de población de ese conjunto; el resultado lo multipliqué por 100 mil.
+
+- Tasa de letalidad: La calculé para cada entidad federativa y grupo de edad. Tomé la cantidad de fallecidos acumulados y la dividí entre la cantidad de casos confirmados acumulados de ese conjunto; el resultado lo multipliqué por 100.
 
 
 
