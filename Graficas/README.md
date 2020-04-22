@@ -18,29 +18,19 @@ Todas las manipulaciones de datos y elaboración de gráficas las realizo con R 
 
 - Pieplot_DesenlaceConfirmados_COVID19Mexico\<fecha\>: Es una gráfica de pastel que muestra el porcentaje de casos confirmados activos, recuperados y fallecidos. La cifra de casos recuperados no está contenida en ningún documento oficial, pero desde el 12 de abril se menciona en publicaciones en la [página de Facebook de la Secretaría de Salud](https://www.facebook.com/SecretariadeSaludMX/).
 
+### Series de tiempo:
+- Lineplot_ConfirmadosAcumulados_PorEntidad_Historico_COVID19Mexico: Es una serie de 6 subgráficas de lineas, cad una de las cuales contiene la información de entre 5 y 6 entidades federativas. En cada subgráfica el eje "x" representa los días transcurridos y el "y" el número de casos confirmados acumulados.
 
+- Lineplot_TasaIncidencia_PorEntidad_Historico_COVID19Mexico: Es una serie de 6 subgráficas de lineas, cad una de las cuales contiene la información de entre 5 y 6 entidades federativas. En cada subgráfica el eje "x" representa los días transcurridos y el "y" el la tasa de incidencia. Anteriormente he explicado cómo calculo la tasa de incidencia para cada entidad federativa.
 
+- Lineplot_ConfirmadosNuevosYAcumulados_COVID19Mexico: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados nuevos y acumulados.
 
+- Lineplot_Confirmados-Sospechosos-EstudiadosAcumulados_COVID19Mexico: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, sospechosos y estudiados acumulados. La línea que corresponde a los casos estudiados está cortada porque esa cifra no se reportaba anteriormente.
 
+- Lineplot_PorcentajeCambio_COVID19Mexico: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" el porcentaje de cambio respecto al día anterior para los casos confirmados, fallecidos y recuperados. Para calcular el porcentake de cambio resté los casos nuevos del día anterior a los nuevos del día que se está reportando, el resultado lo dividí entre los casos nuevos del día anterior, y el resultado lo multipliqué por 100.
 
-- Barplot_CurvaEpidemica_COVID19Mexico_Test.png: 
-- Barplot_FrecuenciaAcumYTasaIncid_PorEntidad_COVID19Mexico_Test.png: 
-- Barplot_FrecuenciaAcumYTasaIncid_PorGrupoEdad_COVID19Mexico_Test.png: 
+- Lineplot_ReportesAcumulados_COVID19Mexico: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, recuperados y fallecidos acumulados.
 
-- Lineplot_Confirmados-Sospechosos-EstudiadosAcumulados_COVID19Mexico.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, sospechosos y estudiados acumulados. La línea que corresponde a los casos estudiados está cortada porque esa cifra no se reportaba anteriormente.
+- Lineplot_ReportesNuevos_COVID19Mexico: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, recuperados y fallecidos nuevos.
 
-- Lineplot_ConfirmadosNuevosYAcumulados_COVID19Mexico_Test.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados nuevos y acumulados.
-
-- Lineplot_PorcenCambio_COVID19Mexico_Test.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" el porcentaje de cambio respecto al día anterior para los casos confirmados, fallecidos y recuperados. Para calcular el porcentake de cambio resté los casos nuevos del día anterior a los nuevos del día que se está reportando, el resultado lo dividí entre los casos nuevos del día anterior, y el resultado lo multipliqué por 100.
-
-- Lineplot_ReportesAcumulados_COVID19Mexico_Test.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, recuperados y fallecidos acumulados.
-
-- Lineplot_ReportesNuevos_COVID19Mexico_Test.png: Es una gráfica de líneas donde el eje "x" indica los días desde el inicio de la epidemia en nuestro país hasta la fecha reportada, y el "y" la cantidad de casos confirmados, recuperados y fallecidos nuevos.
-
-- Pieplot_DesenlaceCasosConfirmados_COVID19Mexico_\<fecha>.png:
-
-- Pieplot_SexoCasosConfirmados_COVID19Mexico_\<fecha>.png: 
-
-Los datos originales son liberados por la SS todos los días aproximadamente a las 19:00 hr, tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche. Sin embargo mis ocupaciones no siempre me permiten hacerlo con la rapidez que debería.
-
-Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com.
+Los datos originales son liberados por la SS todos los días aproximadamente a las 19:00 hr, tiempo de la Ciudad de México. Por lo general actualizo este repostiorio en el transcurso de la noche. Sin embargo mis ocupaciones no siempre me permiten hacerlo con la rapidez que debería. Si deseas hacer cualquier comentario o quieres plantear una colaboración, por favor escríbeme a alancarrillop@gmail.com.
