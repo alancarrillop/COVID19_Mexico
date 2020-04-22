@@ -18,8 +18,11 @@ El proceso no era del todo automático, pues casi todos los días el formato del
 
 Del comunicado técnico diario los datos que utilizaba eran las cifras de casos acumulados sospechosos, positivos, negativos, fallecidos y estudiados. Cada día ingresaba estos datos a un nuevo renglón de un documento csv.
 
-De la tabla de casos positivos
+### Del 13 de abril a la actualidad
+A partir del 13 de abril la Secretaría de Salud comenzó a publicar en su página de internet un documento en formato csv que contiene todos los casos estudiados desde el inicio de la epidemia en nuestro país. Cada renglón es un paciente y contiene las siguientes columnas: Fecha de atualización de la base de datos, origen (si proviene de una Unidad de Monitoreo de Enfermedades Respiratorias o no), sector (IMSS, ISSSTE, etc.), entidad federativa de la unidad médica que reporta, sexo, entidad federativa de nacimiento del paciente, entidad federativa de residencia, municipio de residencia, tipo de paciente (ambulatorio u hospitalizado), fecha de ingreso a ala unidad médica, fecha de inicio de síntomas, fecha de defunción (si aplica), intubado (sí/no), padece neumonía (sí/no), edad, nacionalidad, embarazo (sí/no), habla una lengua idígena (sí/no), padece diabetes (sí/no), padece enfermedad pulmonar obstructiva crónica (sí/no), padece asma (sí/no), padece inmunosupresión (sí/no), padece hipertensión (sí/no), padece otra complicación (sí/no), padece enfermedad cardiovascular (sí/no), padece obesidad (sí/no), padece enfermedad renal crónica (sí/no), padece tabaquismo (sí/no), si estuvo en contacto con otro caso confirmado, resultado (prueba RT-PCR positiva, negativa o pendiente), es migrante (sí/no), país de nacionalidad, país de origen, está en unidad de cuidados intensivos (sí/no). El 19 de abril se agregó un identificador único.
 
-A partir del 13 de abril la Secretaría comenzó a publicar en su página de internet un documento en formato csv que contiene todos los casos estudiados desde el inicio de la epidemia en nuestro país. Cada renglón es un paciente y contiene las sigueintes columnas con las siguientes codificaciones:
+Sigo utilizando los datos del comunicado técnico diario para actualziar manualmente el archivo en csv que contiene el histórico.
+
+Otras fuentes de datos son el Twitter del doctor Hugo López-Gatell, de la Secretaría de Salud y la página de Facebook de la misma Secretaría. sobre todo los datos que obtengo de estas fuentes son la cifra de casos recuperados, pues la twitean o publican con cierta frecuencia en redes sociales aunque no esté en documnetos oficiales.
 
 
