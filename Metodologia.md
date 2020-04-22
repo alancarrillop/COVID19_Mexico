@@ -1,6 +1,6 @@
 # Metodología
 
-## Obtención y manejo de los datos
+## Obtención y manejo de los datos de la Secretaría de Salud
 ### Del 14 de marzo al 12 de abril
 Durante estos días mi fuente de los datos era el comunicado técnico diario y la tabla de casos positivos, publicados por la Secretaría de Salud.
 
@@ -24,5 +24,13 @@ A partir del 13 de abril la Secretaría de Salud comenzó a publicar en su pági
 Sigo utilizando los datos del comunicado técnico diario para actualziar manualmente el archivo en csv que contiene el histórico.
 
 Otras fuentes de datos son el Twitter del doctor Hugo López-Gatell, de la Secretaría de Salud y la página de Facebook de la misma Secretaría. sobre todo los datos que obtengo de estas fuentes son la cifra de casos recuperados, pues la twitean o publican con cierta frecuencia en redes sociales aunque no esté en documnetos oficiales.
+
+## Obtención y manejo de datos del Consejo Nacional de Población
+Estos datos son necesarios para calcular la tasa de incidencia nacional, por entidad federativa y por grupo de edad. La base de datos está en la [página de datos abiertos del Gobierno Federal](https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050/resource/ed3bb2f4-655a-4224-ad76-e1e800e4ff9c). Es un documento en csv que contiene las proyecciones de población total, desde 1950 hasta 20150, por entidad federativa, por año de edad y por sexo.
+
+Utilizando nuevamente RStudio extraje el año 2020 y fusioné diferentes campos para quedarme solo con la proyección por entidad federativa y por grupos de edad de10 años.
+
+
+
 
 
