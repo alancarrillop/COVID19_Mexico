@@ -1,6 +1,3 @@
-**Información importante:**
-**El 12 de abril la Secretaría de Salud comenzó a publicar datos abiertos, lo que significó para mí un cambio en el manejo de la información. Dedicaré unos días a adaptar los scripts y en cuanto lo logre volveré a actualizar el repositorio. Si tienes cualquier comentario por favor escríbeme a alancarrillop@gmail.com**
-
 # COVID19_Mexico
 
 ## Información general
