@@ -1,5 +1,7 @@
 # COVID19_Mexico
 
+Dashboard: [https://alancarrillop.shinyapps.io/COVID-19_Mexico/](https://alancarrillop.shinyapps.io/COVID-19_Mexico/)
+
 ## Información general
 Este repositorio contiene bases de datos y gráficas con información del COVID19 en México. Comencé el proyecto el 17 de marzo pero hasta el 14 de abril escribí una descripción del repositorio.
 
